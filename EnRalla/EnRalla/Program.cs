@@ -21,7 +21,6 @@ namespace EnRalla
             bool win = false;
 
 
-
             Console.WriteLine("Welcome to the game 3 in line");
               
                 Console.WriteLine("Insert player 1 name");
@@ -43,9 +42,7 @@ namespace EnRalla
 
                 Console.WriteLine(jugadorEnJuego + " elige numero para colocar tu pieza");
                 string pos = Console.ReadLine();
-
-                
-
+          
                 ColocarPieza(tablero, pos, jugadorEnJuego,j1,j2);
 
                 ResetMapa(tablero);
@@ -91,7 +88,6 @@ namespace EnRalla
             }
             return false;
         }
-
 
         public static void ColocarPieza(string[][] tablero, string pos, string jugadorEnJuego, string j1, string j2)
         {
@@ -150,7 +146,6 @@ namespace EnRalla
                 }; 
             }
 
-            
             if (hayNumeros == false)
             {
                 Console.WriteLine("No hay más movimientos disponibles. \nReseteando el mapa...");
@@ -165,9 +160,7 @@ namespace EnRalla
                     }
                 }
             }
-
             return tablero;
         }
-
     }
 }

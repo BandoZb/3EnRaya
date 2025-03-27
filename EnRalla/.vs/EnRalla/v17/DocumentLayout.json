@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UdemyOficial_C#\\Juego3\\EnRalla\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDCE5174-8223-4B88-A0C2-40F8ED392038}|EnRalla\\EnRalla.csproj|d:\\udemyoficial_c#\\juego3\\enralla\\enralla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDCE5174-8223-4B88-A0C2-40F8ED392038}|EnRalla\\EnRalla.csproj|solutionrelative:enralla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UdemyOficial_C#\\Juego3\\EnRalla\\EnRalla\\Program.cs",
+              "RelativeDocumentMoniker": "EnRalla\\Program.cs",
+              "ToolTip": "D:\\UdemyOficial_C#\\Juego3\\EnRalla\\EnRalla\\Program.cs",
+              "RelativeToolTip": "EnRalla\\Program.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T12:55:54.153Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

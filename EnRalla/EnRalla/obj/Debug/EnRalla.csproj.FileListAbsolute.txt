@@ -1,0 +1,7 @@
+D:\UdemyOficial_C#\Juego3\EnRalla\EnRalla\obj\Debug\EnRalla.csproj.AssemblyReference.cache
+D:\UdemyOficial_C#\Juego3\EnRalla\EnRalla\obj\Debug\EnRalla.csproj.CoreCompileInputs.cache
+D:\UdemyOficial_C#\Juego3\EnRalla\EnRalla\bin\Debug\EnRalla.exe.config
+D:\UdemyOficial_C#\Juego3\EnRalla\EnRalla\bin\Debug\EnRalla.exe
+D:\UdemyOficial_C#\Juego3\EnRalla\EnRalla\bin\Debug\EnRalla.pdb
+D:\UdemyOficial_C#\Juego3\EnRalla\EnRalla\obj\Debug\EnRalla.exe
+D:\UdemyOficial_C#\Juego3\EnRalla\EnRalla\obj\Debug\EnRalla.pdb
